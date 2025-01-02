@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+# 📱 Pokédex React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bienvenue dans mon premier projet en **React Native** ! 🎉  
+Ce projet est un **Pokédex** qui récupère les données des Pokémon via l'API [PokéAPI](https://pokeapi.co/). Il s'agit d'un projet que j'ai réalisé en suivant un tutoriel vidéo proposé par **Grafikart**.
 
-## Get started
+## 🚀 Fonctionnalités
 
-1. Install dependencies
+- 🎨 Interface simple et intuitive.
+- 🔍 Liste des Pokémon avec leurs informations principales.
+- 📡 Récupération des données en temps réel depuis l'API PokéAPI.
+- 📱 Conçu pour être utilisé sur mobile grâce à React Native.
 
+## 🛠️ Technologies utilisées
+
+- **React Native** : Pour développer l'application mobile.
+- **PokéAPI** : Pour fournir les données des Pokémon.
+- **Axios ou Fetch** : Pour effectuer les requêtes HTTP.
+
+## 🌟 Objectif
+
+Ce projet a été une excellente occasion pour moi de :
+
+1. Me familiariser avec **React Native**.
+2. Découvrir la gestion d'une API externe.
+3. Suivre et mettre en pratique les conseils d'un tutoriel de qualité.
+
+## 📖 Sources
+
+- Tutoriel suivi : [Tutoriel React Native Pokédex par Grafikart](https://grafikart.fr/)
+
+## 🗂️ Installation
+
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/votreutilisateur/pokedex-react-native.git
+   ```
+2. Installez les dépendances :
    ```bash
    npm install
    ```
-
-2. Start the app
-
+3. Lancez l'application :
    ```bash
-    npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+## 🖼️ Aperçu
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Ajoutez ici quelques captures d'écran de l'application pour donner un aperçu visuel.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📝 Remarques
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Ceci est un projet d'apprentissage et non une application prête pour une utilisation en production.
