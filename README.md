@@ -26,7 +26,7 @@ Ce projet a été une excellente occasion pour moi de :
 
 ## 📖 Sources
 
-- Tutoriel suivi : [Tutoriel React Native Pokédex par Grafikart](https://grafikart.fr/)
+- Tutoriel suivi : [Tutoriel React Native Pokédex par Grafikart]([https://grafikart.fr/](https://grafikart.fr/tutoriels/react-native-pokedex-2245))
 
 ## 🗂️ Installation
 
