@@ -14,7 +14,7 @@ Ce projet est un **Pokédex** qui récupère les données des Pokémon via l'API
 
 - **React Native** : Pour développer l'application mobile.
 - **PokéAPI** : Pour fournir les données des Pokémon.
-- **Axios ou Fetch** : Pour effectuer les requêtes HTTP.
+- **Fetch** : Pour effectuer les requêtes HTTP.
 
 ## 🌟 Objectif
 
