@@ -22,7 +22,7 @@ Ce projet a été une excellente occasion pour moi de :
 
 1. Me familiariser avec **React Native**.
 2. Découvrir la gestion d'une API externe.
-3. Suivre et mettre en pratique les conseils d'un tutoriel de qualité.
+3. Suivre et mettre en pratique les conseils d'un tutoriel.
 
 ## 📖 Sources
 
