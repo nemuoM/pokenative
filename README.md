@@ -40,7 +40,7 @@ Ce projet a été une excellente occasion pour moi de :
    ```
 3. Lancez l'application :
    ```bash
-   npm start
+   npm run start
    ```
 
 ## 🖼️ Aperçu
