@@ -43,10 +43,6 @@ Ce projet a été une excellente occasion pour moi de :
    npm run start
    ```
 
-## 🖼️ Aperçu
-
-Ajoutez ici quelques captures d'écran de l'application pour donner un aperçu visuel.
-
 ## 📝 Remarques
 
 Ceci est un projet d'apprentissage et non une application prête pour une utilisation en production.
